@@ -4,7 +4,7 @@
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-In this section I outline the implementations of the on-premises Active Directory within Azure Virtual Machines.<br />
+In this section I'm showing some of the implementations of the on-premises Active Directory within Azure Virtual Machines.<br />
 
 
 
