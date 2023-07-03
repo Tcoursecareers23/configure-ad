@@ -23,35 +23,10 @@ In this section I'm showing some of the implementations of the on-premises Activ
 - Windows Server 2022
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
 
 <h2>Deployment and Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+![Screenshot 2023-07-03 124028](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/ff0bdf3e-a1c1-471f-b1f6-3fb517627519)
 
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-</p>
-<br />
