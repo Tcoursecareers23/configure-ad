@@ -39,6 +39,7 @@ In this section I'm showing some of the implementations of the on-premises Activ
 
 ![Screenshot 2023-07-03 130754](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/b331614d-af74-4bfa-af67-a58da6ed5f75)
 
+![Screenshot 2023-07-03 131135](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/2db8a3ce-58b7-48d1-a3b6-f81028e78d35)
 
 
 
