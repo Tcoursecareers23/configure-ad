@@ -91,7 +91,8 @@ OR
 ![Screenshot 2023-07-06 174541](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/1e7139ed-01b9-4ef7-93bd-6d662b2437f2)
 ![Screenshot 2023-07-06 174812](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/dc2578b3-45a6-4e7a-822a-8f58981e05e0)
 NOTICE ICMP PINGS ARE WORKING
-
+![Screenshot 2023-07-06 175141](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/44600070-db58-492c-9896-da91acf07d30)
+CONTROL C STOPS PING
 ![Screenshot 2023-07-03 130420](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/a0aec8e0-4a6b-466a-acf4-144bf2846ace)
 
 ![Screenshot 2023-07-03 130754](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/b331614d-af74-4bfa-af67-a58da6ed5f75)
