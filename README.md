@@ -47,7 +47,7 @@ In this section I'm showing some of the implementations of the on-premises Activ
 
 ![Screenshot 2023-07-03 132926](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/99e2ea33-a2d3-4c67-8a65-e1d5fd510312)
 
-![Screenshot 2023-07-03 133549](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/16dc8cad-c784-479e-a962-b9af225434d6)
+![Screenshot 2023-07-06 121709](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/07c0d367-a324-4b69-8d82-500d3abddd30)
 
 ![Screenshot 2023-07-03 134053](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/ad7f5332-98cc-4811-8cd3-3e2f852da1f5)
 
@@ -117,9 +117,9 @@ In this section I'm showing some of the implementations of the on-premises Activ
 
 ![Screenshot 2023-07-03 181404](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/34e74e0f-5324-419f-9ff2-ea52e19fe126)
 
-![Screenshot 2023-07-03 181551](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/380cae66-b3c6-40e9-b35a-0c516c9c2ba6)
+![Screenshot 2023-07-06 120120](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/2fd9362d-11d5-433a-8692-324e41b70764)
 
-![Screenshot 2023-07-03 181821](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/4e03cc02-a7c2-4ac2-84c9-ec37d3de233e)
+![Screenshot 2023-07-06 122922](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/bfd26bc7-cc84-4f5b-bfdb-31c3afd98bd0)
 
 ![Screenshot 2023-07-03 182020](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/feeb1899-4ece-49c1-a180-5ec9453b4161)
 
