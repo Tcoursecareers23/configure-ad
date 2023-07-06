@@ -79,7 +79,9 @@ OR
 ![Screenshot 2023-07-06 171954](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/75b51f3b-bc1c-4ece-8413-1bd060dde8c4)
 
 ![Screenshot 2023-07-06 172526](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/0d0b948c-a662-4ce0-8b92-b640590b4ab8)
+
 ![Screenshot 2023-07-06 172921](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/2a2806f4-741c-4aa6-91c5-c5213bbd6d6d)
+![Screenshot 2023-07-06 173355](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/de1b8d15-187d-491c-a6c5-172e1f6f15db)
 
 
 ![Screenshot 2023-07-03 130420](https://github.com/Tcoursecareers23/configure-ad/assets/138035327/a0aec8e0-4a6b-466a-acf4-144bf2846ace)
